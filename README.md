@@ -1,6 +1,12 @@
-# about myself
+[![HW](https://www.lenny76.com/wp-content/uploads/2018/03/hello-world.jpg "HW")](https://www.lenny76.com/wp-content/uploads/2018/03/hello-world.jpg "HW")
 
-my name is Anwar,  computer scince student in the Technion.
-intersted in Devops and Machine Learning.
+# About Me
 
-I love running and outdoor activities
+My name is Anwar, I am a computer scince student in the Technion - Israeli Institute of Technology.
+
+### Fields of interest:
+- DevOps
+- Machine_Learning 
+- IOT
+
+
